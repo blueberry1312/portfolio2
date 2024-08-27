@@ -25,7 +25,7 @@ export default function Example() {
 					</p>
 					<div className="mt-4 bottom-4 md:bottom-8">
 						<p className="hidden text-zinc-200 hover:text-zinc-50 lg:block">
-							<a href="#" target="_blank" rel="noopener noreferrer">
+							<a href="https://drive.google.com/file/d/1Mbk-Mhx63-eYnWgcQ4NFpqLaj6j9mmNr/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 								<button className='buttons'>GET MY RESUME</button>
 							</a>
 						</p>
